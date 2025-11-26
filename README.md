@@ -1,1 +1,1 @@
-![Contribution Graph](src="https://mikehook.ngrok.app/contributions/msmedes/svg")
+![]("https://mikehook.ngrok.app/contributions/msmedes/svg")
